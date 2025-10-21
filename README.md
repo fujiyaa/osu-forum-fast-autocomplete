@@ -8,7 +8,7 @@ Tampermonkey userscript для форума osu!:
 ## Установка
 
 1. Установите [Tampermonkey](https://www.tampermonkey.net/) в браузере.
-2. Кликните на файл `osu!forum FastAutocomplete-1.5.user.js` → `Raw`.
+2. Кликните на файл `osu!forum FastAutocomplete-1.5.user.js` → (https://github.com/fujiyaa/osu-forum-fast-autocomplete/raw/main/osu!forum FastAutocomplete-1.5.user.js).
 3. Tampermonkey предложит установить скрипт.
 
 ## Проблемы
